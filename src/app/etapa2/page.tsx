@@ -1,6 +1,10 @@
 export default function Page() {
   return (
     <main>
+      <h1 className="text-3xl font-extrabold">
+        Essa página vai ser do bolo de parabens para começar já <br />
+        vai ter uma página de logs que eu vou adicionando ao longo do projeto
+      </h1>
       <h1>começa perguntando quantos anos ela tem</h1>
       <h1>alguma página com um bolo que a vela precisa ser apagada</h1>
       <h1>
