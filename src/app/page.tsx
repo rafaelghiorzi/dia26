@@ -16,7 +16,7 @@ export default function Home() {
 
   return (
     <section className="flex flex-col items-center text-center justify-center h-screen p-3">
-      <h1>Aqui vai precisar vir um gif meu não tem como</h1>
+      <img src="main.gif" alt="gif fofo" className="w-96 mb-10" />
       <h1 className="text-2xl font-semibold mb-2">Olá, meu amor!</h1>
       <h1 className="text-lg font-medium mb-4">
         Bem vinda a um pedaço do seu aniversário
